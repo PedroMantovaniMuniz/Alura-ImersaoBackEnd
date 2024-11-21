@@ -1,0 +1,5 @@
+Ctrl + J = Abrir terminal
+'Nome Programa' --version ou 'Nome Programa' -v = Verificar versão
+npm init es6 -y = npm iniciar com javascript moderno (Todas as configurações marcadas 'yes')
+package.json é um identificador do projeto, descrevendo-o e informando tecnologias dependentes
+npm install express = npm irá instalar o pacote 'express'
