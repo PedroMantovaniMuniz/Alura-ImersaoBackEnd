@@ -3,3 +3,4 @@ Ctrl + J = Abrir terminal
 npm init es6 -y = npm iniciar com javascript moderno (Todas as configurações marcadas 'yes')
 package.json é um identificador do projeto, descrevendo-o e informando tecnologias dependentes
 npm install express = npm irá instalar o pacote 'express'
+crtl + c no terminal para parar o servidor
